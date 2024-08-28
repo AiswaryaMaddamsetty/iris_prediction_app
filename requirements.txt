@@ -1,0 +1,4 @@
+This is requirements file for our app.
+streamlit
+scikit-learn
+pandas
